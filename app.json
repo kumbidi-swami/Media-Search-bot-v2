@@ -34,8 +34,8 @@
             "value": ""
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": "@username_to_id_bot"
+            "description": "Username or ID of Admin. Separate multiple Admins by space. You will get @username_to_id_bot",
+            "value": ""
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
