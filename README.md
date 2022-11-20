@@ -13,12 +13,12 @@
 * Ability to restrict groups(AUTH_GROUPS)
 
 
-## If Any Doubts Ask In [Update Channel](https://t.me/ErrorXbotz), [Support Group](https://t.me/ErrorXsupport)
+## If Any Doubts Ask In [Update Channel](https://t.me/adwinmosses), [Support Group](https://t.me/Moss_botz)
 
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kumbidi-swami/Media-Search-bot-v2.git)
 ### Hard Way
 
 ```bash
@@ -84,13 +84,13 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Mahesh0253/Media-Search-bot)
+* Original V1 [Repo](https://github.com/Mahesh0253/Media-Search-bot)
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/Jinn_007)
+Contact Me On [Telegram](https://t.me/adwin_mosses)
 
-[Update Channel](https://t.me/ErrorXbotz)
+[Update Channel](https://t.me/adwinmosses)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
